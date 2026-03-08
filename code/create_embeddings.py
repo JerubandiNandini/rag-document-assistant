@@ -4,7 +4,7 @@ import faiss
 import pickle
 
 # Path to docs folder
-docs_folder = "___our specified doc foler path should be entioned here___"
+docs_folder = "___our specified doc foler path should be mentioned here___"
 
 # Load documents
 documents = []
