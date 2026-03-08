@@ -1,0 +1,11 @@
+User
+ ↓
+Streamlit UI
+ ↓
+FAISS Vector DB
+ ↓
+Document Retrieval
+ ↓
+Ollama LLM
+ ↓
+Answer
