@@ -1,7 +1,7 @@
 import os
 
 # Absolute path to docs folder
-docs_folder = "C:/Users/harik/OneDrive/Desktop/RAG_Project/docs"
+docs_folder = "___our specified doc foler path should be entioned here___"
 documents = []
 
 for filename in os.listdir(docs_folder):
