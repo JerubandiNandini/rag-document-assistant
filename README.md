@@ -43,6 +43,20 @@ pip install -r requirements.txt
 
 Create vector database
 
+## Installation
+
+Clone the repository
+
+git clone https://github.com/YOUR_USERNAME/rag-document-assistant.git
+
+Move to the project folder
+
+cd rag-document-assistant
+
+Install dependencies
+
+pip install -r requirements.txt
+
 python code/create_vector_db.py
 
 Run the app
