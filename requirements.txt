@@ -1,0 +1,12 @@
+streamlit
+faiss-cpu
+sentence-transformers
+transformers
+torch
+langchain
+langchain-community
+pypdf
+python-dotenv
+requests
+tqdm
+numpy
