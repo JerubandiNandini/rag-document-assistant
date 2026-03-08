@@ -1,0 +1,3 @@
+Retrieval-Augmented Generation (RAG) combines a retrieval system with a language model to generate answers based on documents.
+The retriever finds relevant documents or chunks, and the generator (LLM) produces the final response.
+RAG is useful for question-answering systems where up-to-date knowledge is important.

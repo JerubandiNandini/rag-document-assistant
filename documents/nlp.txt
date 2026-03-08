@@ -1,0 +1,3 @@
+Natural Language Processing (NLP) is a field of AI that gives machines the ability to read, understand, and generate human languages.
+Applications include chatbots, sentiment analysis, and language translation.
+Transformers are a modern NLP architecture used in models like BERT and GPT.

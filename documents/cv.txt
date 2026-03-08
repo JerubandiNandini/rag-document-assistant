@@ -1,0 +1,3 @@
+Computer Vision (CV) is a field of AI that enables machines to interpret and process visual information from the world.
+Applications include object detection, facial recognition, and autonomous vehicles.
+Convolutional Neural Networks (CNNs) are commonly used for image processing.

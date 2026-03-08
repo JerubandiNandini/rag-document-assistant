@@ -1,0 +1,4 @@
+Machine Learning (ML) is a branch of AI that focuses on algorithms that improve automatically through experience.
+Supervised learning involves training on labeled data.
+Unsupervised learning finds patterns in unlabeled data.
+Reinforcement learning trains agents via rewards and penalties.
